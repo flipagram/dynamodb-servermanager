@@ -11,7 +11,7 @@
 	<version>0.1-SNAPSHOT</version>
 
 	<name>dynamodb-servermanager</name>
-	<description>DynamoDB Local Server Management</description>
+	<description>DynamoDB Local Server Manager and JUnit extensions</description>
 	<url>https://github.com/flipagram/dynamodb-servermanager</url>	
 
 	<properties>
