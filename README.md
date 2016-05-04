@@ -1,2 +1,2 @@
-# junit-dynamodb
-DynamoDB extensions for JUnit
+# dynamodb-servermanager
+DynamoDB Local Server Manager and JUnit extensions
